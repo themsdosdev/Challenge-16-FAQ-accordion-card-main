@@ -17,9 +17,7 @@
 
 
 # ACTIVE STATES
-
-
-![active-states](https://github.com/user-attachments/assets/b20b2005-c111-4f15-b5e4-ef89975b3278)
+![Captura de pantalla 2025-01-04 213019](https://github.com/user-attachments/assets/3fc6c691-691e-4f2f-a023-fbcd5e997c7f)
 
 
 # MOBILE
